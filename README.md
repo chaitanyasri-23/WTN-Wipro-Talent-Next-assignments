@@ -27,6 +27,64 @@ This repository contains my Database Management System (DBMS) lab assignments co
 - Foreign Keys
 - SQL Queries
 
+# MileStone 1 - Oracle SQL Assignments
+
+This repository contains my **DBMS Lab - MileStone 1** assignments completed using **Oracle Database 21c Express Edition** and **SQL*Plus**.
+
+## 📚 Assignments Included
+
+### Assignment 2
+- Retrieving Data using SQL SELECT Statement
+
+### Assignment 3
+- Restricting and Sorting Data
+
+### Assignment 4
+- Using Single Row Functions
+
+### Assignment 5
+- Reporting Aggregated Data using Group Functions
+
+### Assignment 6
+- Matrix Queries
+- Set Operators
+- UNION Operations
+
+### Assignment 7
+- SQL Joins
+- Natural Join
+- Equi Join
+- Self Join
+- Outer Join
+- Left Join
+- Right Join
+- Full Outer Join
+- USING Clause
+- ON Clause
+
+## 🛠️ Technologies Used
+
+- Oracle Database 21c Express Edition
+- SQL*Plus
+- SQL
+
+## 📂 Repository Contents
+
+- SQL Query Files
+- Assignment Reports
+- Output Screenshots
+
+## 🎯 Learning Outcomes
+
+- SQL SELECT Statements
+- Filtering and Sorting Data
+- Single Row Functions
+- Aggregate Functions
+- GROUP BY and HAVING
+- Set Operators
+- SQL Joins
+- Oracle SQL Query Writing
+
 ## Author
 
 **Nuthalapati Chaitanya Sri**  
